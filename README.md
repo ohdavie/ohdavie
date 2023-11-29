@@ -20,7 +20,12 @@
 
 - <b>Compound Interest Calculator </b>
   - [Overview](https://github.com/ohdavie/HarvardX-CS50-Compound-Interest-Calculator-Project)
+ 
+<h2>👨‍💻 Certifications:</h2>
 
+- <b>[Google Cybersecurity Certificate](https://www.credly.com/badges/3f44fec1-3953-4f42-bd23-7655095a570f/public_url) </b>
+- <b>[AWS Solutions Architect Professional](https://www.credly.com/badges/c24b7a25-afad-4448-9e13-fc5d0f859ef5/public_url) </b>
+- <b>[CCNP (Cisco Certified Network Professional)](https://www.credly.com/badges/3a46dbe0-e0f9-437a-8a37-562aa2f87462/public_url) </b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
